@@ -1,10 +1,10 @@
--👋 Hi, I’m @handekilinc
--👀 I’m interested in AI, machine learning, and data analytics.
--🌱 I’m currently learning deep learning and exploring its applications.
--💞️ I’m looking to collaborate with anyone passionate about technology and innovation!
--📫 You can reach me through my email: handekilinc3510@gmail.com
--😄 Pronouns: She/Her.
--⚡ Fun fact: I once built a machine learning model that predicts movie ratings!
+👋 Hey there! I’m @handekilinc, your friendly data explorer!
+👀 My passion lies in unraveling the mysteries of AI, machine learning, and data analytics.
+🌱 Currently diving deep into the fascinating world of deep learning—because who doesn't love a good neural network?
+💞 Always open to collaboration—let’s turn data into magic together!
+📫 You can reach me via [your preferred contact method], or just drop me a DM!
+😄 Pronouns: He/Him (or your preferred pronouns).
+⚡ Fun fact: I once analyzed a dataset that helped predict the weather—turns out, my forecast was spot on! ☀️🌧️
 
 <!---
 handekilinc/handekilinc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
